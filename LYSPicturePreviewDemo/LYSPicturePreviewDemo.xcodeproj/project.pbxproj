@@ -22,6 +22,8 @@
 		CCBEA03C2313EF9600047743 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCBEA0372313EF9600047743 /* 4.jpg */; };
 		CCBEA03D2313EF9600047743 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCBEA0382313EF9600047743 /* 1.jpg */; };
 		CCBEA03E2313EF9600047743 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCBEA0392313EF9600047743 /* 3.jpg */; };
+		CCBEA0402313F18300047743 /* LYSPicturePreView.podspec in Resources */ = {isa = PBXBuildFile; fileRef = CCBEA03F2313F18300047743 /* LYSPicturePreView.podspec */; };
+		CCBEA0422313F18800047743 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CCBEA0412313F18800047743 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +69,8 @@
 		CCBEA0372313EF9600047743 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
 		CCBEA0382313EF9600047743 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 		CCBEA0392313EF9600047743 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		CCBEA03F2313F18300047743 /* LYSPicturePreView.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LYSPicturePreView.podspec; path = ../../LYSPicturePreView.podspec; sourceTree = "<group>"; };
+		CCBEA0412313F18800047743 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +125,8 @@
 				CCBE9FFD2313B4F000047743 /* AppDelegate.m */,
 				CCBE9FFF2313B4F000047743 /* ViewController.h */,
 				CCBEA0002313B4F000047743 /* ViewController.m */,
+				CCBEA03F2313F18300047743 /* LYSPicturePreView.podspec */,
+				CCBEA0412313F18800047743 /* README.md */,
 				CCBEA0382313EF9600047743 /* 1.jpg */,
 				CCBEA0362313EF9600047743 /* 2.jpg */,
 				CCBEA0392313EF9600047743 /* 3.jpg */,
@@ -271,8 +277,10 @@
 			files = (
 				CCBEA03C2313EF9600047743 /* 4.jpg in Resources */,
 				CCBEA0092313B4F100047743 /* LaunchScreen.storyboard in Resources */,
+				CCBEA0422313F18800047743 /* README.md in Resources */,
 				CCBEA03A2313EF9600047743 /* 5.jpg in Resources */,
 				CCBEA03B2313EF9600047743 /* 2.jpg in Resources */,
+				CCBEA0402313F18300047743 /* LYSPicturePreView.podspec in Resources */,
 				CCBEA0062313B4F100047743 /* Assets.xcassets in Resources */,
 				CCBEA0042313B4F000047743 /* Main.storyboard in Resources */,
 				CCBEA03D2313EF9600047743 /* 1.jpg in Resources */,
