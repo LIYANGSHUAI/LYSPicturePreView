@@ -2,6 +2,7 @@
 简单实现一个图片预览组件
 
 ![iOS技术群群二维码](https://github.com/LIYANGSHUAI/LYSDatePicker/blob/master/resource/iOS技术群群二维码.JPG)
+![效果图](https://github.com/LIYANGSHUAI/LYSPicturePreView/blob/master/IMG_1608.PNG)
 
 ```objc
 @protocol LYSPicturePreViewDelegate <NSObject>
